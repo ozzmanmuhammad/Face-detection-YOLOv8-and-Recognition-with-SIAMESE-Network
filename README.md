@@ -2,10 +2,13 @@
 
 This repository contains code that demonstrates how to train YOLOv8 for object detection tasks and use a Siamese network for face recognition tasks. The YOLOv8 model is trained on a custom face detection dataset, and the Siamese network utilizes the FaceNet model for face recognition.
 
+![YOLOv8](https://github.com/ozzmanmuhammad/Face-detection-YOLOv8-and-Recognition-with-SIAMESE-Network/assets/93766242/561f0329-9493-4852-a1ed-4fd1063c7f3d)
+
 ---
 The YOLOv8 part will run easily on colab but for the Siamese network, you will need to download the 
 pretrained model for the FaceNet model and run the code on the local machine for python 2.7 and tensorflow 2.3.0.
 ### Installation for YOLOv8
+
 
 1. Clone the repository:
 
