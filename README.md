@@ -1,7 +1,3 @@
-Certainly! Here's a generated README file for the code provided:
-
----
-
 # YOLOv8 Object Detection and Siamese Network for Face Recognition
 
 This repository contains code that demonstrates how to train YOLOv8 for object detection tasks and use a Siamese network for face recognition tasks. The YOLOv8 model is trained on a custom face detection dataset, and the Siamese network utilizes the FaceNet model for face recognition.
